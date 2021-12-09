@@ -1,0 +1,6 @@
+name: ItemMagnet
+version: '${project.version}'
+main: ml.codeboy.itemmagnet.ItemMagnet
+api-version: 1.17
+
+softdepend: [GriefPrevention]
